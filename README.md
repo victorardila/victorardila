@@ -126,6 +126,13 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan13888&theme=dracula">
 
+---
+
+### :fire: Estadisticas :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Valfonsoardila10&theme=dark&background=#4C2882)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valfonsoardila10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
 ---
 
@@ -148,10 +155,3 @@
   </ol>
 </details>
 
----
-
-### :fire: Estadisticas :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Valfonsoardila10&theme=dark&background=#4C2882)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valfonsoardila10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
