@@ -18,9 +18,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Valfonsoardila10/VisitorBadgeReloaded" style="text-decoration: none;">
-    <img src="https://vbr.nathanchung.dev/badge?page_id=Valfonsoardila10-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=Valfonsoardila10%20Views&text=&color=ffffff" alt="Visitor Badge Reloaded">
-</a>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Valfonsoardila10.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
 <br>
 
