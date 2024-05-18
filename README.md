@@ -22,10 +22,6 @@
     <img src="https://vbr.nathanchung.dev/badge?page_id=valfonsoardila10-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=Valfonsoardila10%20Views&text=&color=ffffff" alt="Visitor Badge Reloaded">
 </a>
 
-<a href="https://nixos.org/" style="text-decoration: none;">
-    <img decoding="async" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
-</a>
-
 <a href="https://www.ubuntukylin.com/index-en.html" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/OS-Kilyn_OS-4E7DBA?labelColor=111111&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Kilyn OS">
 </a>
@@ -42,22 +38,6 @@
     <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
 </a>
 
-<a href="https://code.visualstudio.com/">
-   <img decoding="async" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-   <img decoding="async" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-   <img decoding="async" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-   <img decoding="async" src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
-</a>
-
 <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Messaging-Discord-7289da?labelColor=111111&style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
@@ -68,6 +48,11 @@
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
+<img decoding="async" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+<img decoding="async" src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
+<img decoding="async" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img decoding="async" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+<img decoding="async" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt "Python">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp">
