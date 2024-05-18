@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt "Python">
-<img src="https://img.shields.io/badge/C#-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="CSharp">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="CSharp">
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript">
 <img src="https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
