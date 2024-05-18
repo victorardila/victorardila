@@ -60,7 +60,6 @@
 --></div>
 
 <h3> 🕵 Some fun facts about me! </h3>
-## ​**Software Developer**
 
 I am a professional developer who seeks to empathize with the work environment.
 
