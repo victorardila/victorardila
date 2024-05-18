@@ -20,7 +20,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=valfonsoardila10.visitor-badge&format=true&left_color=grey&right_color=yellow&left_text=Visitas-al-perfil)
 
-![](https://vbr.wocr.tk/badge?page_id=valfonsoardila10.visitor-badge-reloaded-visitors&color=590d22&style=for-the-badge&logo=Github&hit=false)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FValfonsoardila10&countColor=%23263759)
 
 <br>
 
