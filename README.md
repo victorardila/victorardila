@@ -17,8 +17,8 @@
 <!--<h1><img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"> I'm Nathan~! <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"> <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4595/blob-turtle.gif?1536351075" width="35"><h1>-->
 
 <div align="center">
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=valfonsoardila10.visitor-badge&format=true&left_color=grey&right_color=yellow&left_text=Visitas-al-perfil)
+<!--
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=valfonsoardila10.visitor-badge&format=true&left_color=grey&right_color=yellow&left_text=Visitas-al-perfil)-->
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FValfonsoardila10&labelColor=%23ffffff&countColor=%238b0000)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FValfonsoardila10)
 
