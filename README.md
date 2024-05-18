@@ -75,43 +75,6 @@
   </li>
 </ul>
 
-
-<h3> 📈 Some interesting stats  </h3>
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.classic.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.achievements.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.languages.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.reactions.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.wakatime.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/Nathan13888/Nathan13888/blob/master/metrics.plugin.isocalendar.svg">
-    </td
-  </tr>
-</table>
-
-
-<div align="center">
-  <img src="https://wakatime.com/share/@Nathan13888/044ea004-6e8d-4922-a75c-ae3e1e965744.png" alt="Wakatime All-time Activity">
-<!--   <img src="https://wakatime.com/share/@Nathan13888/2596b40a-0c48-4259-99f3-2481e69718a7.png" alt="Wakatime Yearly Activity"> -->
-</div>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valfonsoardila10&theme=dracula">
 
 ---
