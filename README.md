@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://www.ubuntukylin.com/index-en.html" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/OS-Kilyn_OS-4E7DBA?labelColor=111111&style=for-the-badge&logo=debian&logoColor=white" alt="Kilyn OS">
+    <img src="https://img.shields.io/badge/OS-Kilyn_OS-4E7DBA?labelColor=111111&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Kilyn OS">
 </a>
 
 <a href="https://ubuntubudgie.org/" style="text-decoration: none;">
