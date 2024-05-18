@@ -60,6 +60,17 @@
 --></div>
 
 <h3> 🕵 Some fun facts about me! </h3>
+## ​**Software Developer**
+
+I am a professional developer who seeks to empathize with the work environment.
+
+- ⚛️ I am a web development architect in **react**
+
+- 📱 I am currently learning **Flutter**
+
+- 👯 I'm looking to collaborate with **other content creators**
+
+- 🔭 Fun fact **I love playing the guitar and drinking coffee.**
 <ul>
   <li>
     I run a (modest) <a href="https://wiki.nathanchung.dev/">homelab (WIP)</a>.
