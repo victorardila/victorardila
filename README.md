@@ -108,7 +108,7 @@ I am a professional developer who seeks to empathize with the work environment.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valfonsoardila10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
 ---
-
+ 
 <details>
   <summary><b><i>More stats??</i></b></summary>
   <br>
