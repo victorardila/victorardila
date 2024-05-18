@@ -116,14 +116,6 @@
     <img src="https://wakatime.com/badge/user/ebadf288-2f58-4ca3-909d-c07fe49f4ae4.svg" alt="Wakatime Badge">
 </a>
 
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@Valfonsoardila10/583c27d9-2ba5-43d9-8da0-aa1ac6bd0259.png" alt="Wakatime Languages"></td>
-    <td><img src="https://wakatime.com/share/@Valfonsoardila10/b90db956-b584-4f43-8e6d-6590777cd37b.png" alt="Wakatime Languages"></td>
-  </tr>
-</table>
-
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valfonsoardila10&theme=dracula">
 
 ---
