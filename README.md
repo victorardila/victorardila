@@ -19,7 +19,7 @@
 <div align="center">
 
 <a href="https://github.com/Nathan13888/VisitorBadgeReloaded" style="text-decoration: none;">
-    <img src="https://vbr.nathanchung.dev/badge?page_id=nathan13888-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff" alt="Visitor Badge Reloaded">
+    <img src="https://vbr.nathanchung.dev/badge?page_id=Valfonsoardila10-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=Valfonsoardila10%20Views&text=&color=ffffff" alt="Visitor Badge Reloaded">
 </a>
 
 <a href="https://nixos.org/" style="text-decoration: none;">
