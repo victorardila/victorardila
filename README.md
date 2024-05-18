@@ -8,3 +8,7 @@
   <a href="#"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <!--   <a href="https://devpost.com/Nathan13888"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp; -->
 </p>
+
+<div align="center">
+<h3> 🚀 I 💖 Code | 🛸 Explore | 🎸 Music ✨</h3>
+</div>
