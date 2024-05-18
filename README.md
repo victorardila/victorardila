@@ -20,9 +20,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=valfonsoardila10.visitor-badge&format=true&left_color=grey&right_color=yellow&left_text=Visitas-al-perfil)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FValfonsoardila10&countColor=%23263759)
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FValfonsoardila10&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FValfonsoardila10)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FValfonsoardila10&labelColor=%23ffffff&countColor=%238b0000)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FValfonsoardila10)
 
 <br>
 
