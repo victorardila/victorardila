@@ -19,7 +19,7 @@
 <div align="center">
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=valfonsoardila10.visitor-badge&format=true&left_color=grey&right_color=yellow&left_text=Visitas-al-perfil)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=green&right_color=red)
+![](https://vbr.wocr.tk/badge?page_id=visitor-badge-reloaded-visitors&color=590d22&style=for-the-badge&logo=Github&hit=false)
 <br>
 
 ---
