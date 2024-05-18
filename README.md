@@ -26,12 +26,12 @@
     <img src="https://img.shields.io/badge/OS-NixOS-5277C3?labelColor=111111&style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS">
 </a>
 
-<a href="https://www.debian.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/OS-Debian-A81D33?labelColor=111111&style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
+<a href="https://www.ubuntukylin.com/index-en.html" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/OS-Kilyn_OS-4E7DBA?labelColor=111111&style=for-the-badge&logo=debian&logoColor=white" alt="Kilyn OS">
 </a>
 
-<a href="https://alpinelinux.org/">
-    <img src="https://img.shields.io/badge/OS-Alpine-0D597F?labelColor=111111&style=for-the-badge&logo=alpine-linux&logoColor=white" alt="Alpine Linux">
+<a href="https://ubuntubudgie.org/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/OS-Ubuntu_Budgie-6F4B25?labelColor=111111&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Budgie">
 </a>
 
 <a href="https://code.visualstudio.com/">
