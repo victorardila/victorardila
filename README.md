@@ -38,28 +38,28 @@
     <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?labelColor=111111&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </a>
 
-<a href="https://github.com/neovim/neovim">
-    <img src="https://img.shields.io/badge/Editor-Neovim-57A143?labelColor=111111&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
+<a href="https://code.visualstudio.com/">
+    <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
 </a>
 
-<a href="#">
-    <img src="https://img.shields.io/badge/Browser-Firefox-FF7139?labelColor=111111&style=for-the-badge&logo=firefox&logoColor=white" alt="Firefox">
+<a href="https://code.visualstudio.com/">
+   <img decoding="async" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </a>
 
-<a href="https://github.com/kovidgoyal/kitty">
-    <img src="https://img.shields.io/badge/Emulator-Kitty-784421?labelColor=111111&style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Kitty Emulator">
+<a href="https://code.visualstudio.com/">
+   <img decoding="async" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </a>
 
-<a href="https://github.com/ohmyzsh/ohmyzsh">
-    <img src="https://img.shields.io/badge/Terminal-ZSH-4EAA25?labelColor=111111&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="ZSH Terminal">
+<a href="https://code.visualstudio.com/">
+   <img decoding="async" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+   <img decoding="async" src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
 </a>
 
 <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Messaging-Discord-7289da?labelColor=111111&style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-
-<a href="https://matrix.com">
-    <img src="https://img.shields.io/badge/Messaging-Matrix-000000?labelColor=111111&style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix">
 </a>
 
 <br>
