@@ -28,6 +28,7 @@
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
+<img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" alt="Thor">
 <img src="https://img.shields.io/badge/OS-Kilyn_OS-4E7DBA?labelColor=111111&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Kilyn OS">
 <img src="https://img.shields.io/badge/OS-Ubuntu_Budgie-6F4B25?labelColor=111111&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Budgie">
 <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?labelColor=111111&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
