@@ -112,10 +112,6 @@
 <!--   <img src="https://wakatime.com/share/@Nathan13888/2596b40a-0c48-4259-99f3-2481e69718a7.png" alt="Wakatime Yearly Activity"> -->
 </div>
 
-<a href="https://wakatime.com/@ebadf288-2f58-4ca3-909d-c07fe49f4ae4">
-    <img src="https://wakatime.com/badge/user/ebadf288-2f58-4ca3-909d-c07fe49f4ae4.svg" alt="Wakatime Badge">
-</a>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valfonsoardila10&theme=dracula">
 
 ---
