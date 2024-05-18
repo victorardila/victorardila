@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=valfonsoardila10.visitor-badge&left_color=yellow&right_color=green&left_text=Visitas-al-perfil)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=valfonsoardila10.visitor-badge&left_color=yellow&right_color=black&left_text=Visitas-al-perfil)
 
 <br>
 
