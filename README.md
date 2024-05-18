@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://nixos.org/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/OS-NixOS-5277C3?labelColor=111111&style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS">
+    <img decoding="async" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
 </a>
 
 <a href="https://www.ubuntukylin.com/index-en.html" style="text-decoration: none;">
