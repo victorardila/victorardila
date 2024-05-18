@@ -124,7 +124,7 @@
 </table>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan13888&theme=dracula">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Valfonsoardila10&theme=dracula">
 
 ---
 
@@ -141,7 +141,7 @@
   <br>
   <ol>
     <li>
-      <a href="https://github.com/Nathan13888/VisitorBadgeReloaded">Visitor Badge Reloaded</a>
+      <a href="https://github.com/Valfonsoardila10/VisitorBadgeReloaded">Visitor Badge Reloaded</a>
     </li>
     <li>
       <a href="https://github.com/lowlighter/metrics">Lowlighter's Metrics</a>
