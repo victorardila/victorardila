@@ -118,8 +118,8 @@
 
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@Nathan13888/583c27d9-2ba5-43d9-8da0-aa1ac6bd0259.png" alt="Wakatime Languages"></td>
-    <td><img src="https://wakatime.com/share/@Nathan13888/b90db956-b584-4f43-8e6d-6590777cd37b.png" alt="Wakatime Languages"></td>
+    <td><img src="https://wakatime.com/share/@Valfonsoardila10/583c27d9-2ba5-43d9-8da0-aa1ac6bd0259.png" alt="Wakatime Languages"></td>
+    <td><img src="https://wakatime.com/share/@Valfonsoardila10/b90db956-b584-4f43-8e6d-6590777cd37b.png" alt="Wakatime Languages"></td>
   </tr>
 </table>
 
