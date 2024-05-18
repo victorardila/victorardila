@@ -150,7 +150,7 @@
 
 ---
 
-### :hammer_and_wrench: estadisticas :
+### :fire: estadisticas :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Valfonsoardila10&theme=dark&background=000000)](https://git.io/streak-stats)
 
