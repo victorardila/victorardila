@@ -114,7 +114,7 @@ I am a professional developer who seeks to empathize with the work environment.
   <br>
   <ol>
     <li>
-      <a href="https://github.com/Valfonsoardila10/VisitorBadgeReloaded">Visitor Badge Reloaded</a>
+      <a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FValfonsoardila10&label=Visitantes%20al%20perfil&labelColor=%23ffffff&countColor=%238b0000">Visitor Badge Reloaded</a>
     </li>
     <li>
       <a href="https://github.com/lowlighter/metrics">Lowlighter's Metrics</a>
