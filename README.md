@@ -87,13 +87,13 @@ I am a professional developer who seeks to empathize with the work environment.
     I run a (modest) <a href="https://wiki.nathanchung.dev/">homelab (WIP)</a>.
   </li>
   <li>
-    I have a twin brother 🧑‍🤝‍🧑
+    I have a One sister 🧑‍🤝‍🧑
   </li>
   <li>
-    I'm a Ski Instructor ⛷️
+    I'm a Ing of software ⛷️
   </li>
   <li>
-    It is my personal ambition to make AGI a reality (someday)!
+    My personal ambition is to be able to work (someday) for a giant company.
   </li>
 </ul>
 
