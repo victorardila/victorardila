@@ -84,7 +84,7 @@ I am a professional developer who seeks to empathize with the work environment.
 - 🔭 Fun fact **I love playing the guitar and drinking coffee.**
 <ul>
   <li>
-    I run a (modest) <a href="https://wiki.nathanchung.dev/">homelab (WIP)</a>.
+    I run a (modest) <a href="https://portafolio-web-profesional.web.app/">homelab (WIP)</a>.
   </li>
   <li>
     I have a One sister 🧑‍🤝‍🧑
