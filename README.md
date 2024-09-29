@@ -102,7 +102,7 @@ I am a professional developer who seeks to empathize with the work environment.
   </li>
 </ul>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Valfonsoardila10&theme=dracula">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=valfonsoardila&theme=dracula">
 
 ---
 
