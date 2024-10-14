@@ -124,7 +124,7 @@ I am a professional developer who seeks to empathize with the work environment.
       <a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvictorardila&label=Visitantes%20al%20perfil&labelColor=%23ffffff&countColor=%238b0000">Visitor Badge Reloaded</a>
     </li>
     <li>
-      <a href="https://github.com/lowlighter/metrics">Lowlighter's Metrics</a>
+      <a href="https://metrics.lecoq.io/insights/victorardila">Lowlighter's Metrics</a>
     </li>
     <li>
       <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a>
