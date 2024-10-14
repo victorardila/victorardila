@@ -135,3 +135,5 @@ I am a professional developer who seeks to empathize with the work environment.
   </ol>
 </details>
 
+### **My work**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorardila&show_icons=true" alt="victorardila" /></p>
