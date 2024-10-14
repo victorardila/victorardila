@@ -110,9 +110,9 @@ I am a professional developer who seeks to empathize with the work environment.
 
 ### :fire: Estadisticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valfonsoardila&theme=dark&background=#4C2882)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victorardila&theme=dark&background=#4C2882)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valfonsoardila&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorardila&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
 ---
  
@@ -121,7 +121,7 @@ I am a professional developer who seeks to empathize with the work environment.
   <br>
   <ol>
     <li>
-      <a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FValfonsoardila10&label=Visitantes%20al%20perfil&labelColor=%23ffffff&countColor=%238b0000">Visitor Badge Reloaded</a>
+      <a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvictorardila&label=Visitantes%20al%20perfil&labelColor=%23ffffff&countColor=%238b0000">Visitor Badge Reloaded</a>
     </li>
     <li>
       <a href="https://github.com/lowlighter/metrics">Lowlighter's Metrics</a>
