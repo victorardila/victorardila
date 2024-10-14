@@ -20,7 +20,7 @@
 <!--
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=valfonsoardila10.visitor-badge&format=true&left_color=grey&right_color=yellow&left_text=Visitas-al-perfil)-->
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FValfonsoardila10&label=Visitantes%20al%20perfil&labelColor=%23ffffff&countColor=%238b0000)](https://github.com/VictorArdila)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvictorardila&label=Visitantes%20al%20perfil&labelColor=%23ffffff&countColor=%238b0000)](https://github.com/VictorArdila)
 
 <br>
 
@@ -44,7 +44,7 @@
 <img decoding="async" src="https://img.shields.io/badge/Supabase-3ECF8E?labelColor=111111&style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 <img src="https://img.shields.io/badge/firebase-a08021?labelColor=111111&style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt "Python">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="CSharp">
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript">
 <img src="https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
