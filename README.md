@@ -113,7 +113,9 @@ I am a professional developer who seeks to empathize with the work environment.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victorardila&theme=dark&background=#4C2882)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorardila&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorardila&show_icons=true" alt="victorardila" /></p>
+
 ---
  
 <details>
@@ -134,6 +136,3 @@ I am a professional developer who seeks to empathize with the work environment.
     </li>
   </ol>
 </details>
-
-### **My work**
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorardila&show_icons=true" alt="victorardila" /></p>
