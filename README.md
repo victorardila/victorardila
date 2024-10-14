@@ -116,6 +116,9 @@ I am a professional developer who seeks to empathize with the work environment.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorardila&show_icons=true" alt="victorardila" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
  
 <details>
