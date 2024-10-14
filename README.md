@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?labelColor=111111&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
 <img decoding="async" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img decodign="async" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
 <img decoding="async" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?labelColor=111111&style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
 <img decoding="async" src="https://img.shields.io/badge/Apache_Cassandra-1287B1?labelColor=111111&style=for-the-badge&logo=apache-cassandra&logoColor=white&color=black" alt="Cassandra"/>
 <img decoding="async" src="https://img.shields.io/badge/MongoDB-47A248?labelColor=111111&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
