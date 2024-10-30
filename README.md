@@ -2,7 +2,6 @@
   <h1> Hi, I'm Victor 👋 </h1>
 </div>
 
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/victor-ardila-31a94b230/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://portafolio-web-profesional.web.app/"><img height="30" src="https://github.com/Valfonsoardila10/Valfonsoardila10/assets/106699036/2d666194-7433-4bc9-926e-8d70b7e3cb33"></a>&nbsp;&nbsp;
