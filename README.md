@@ -116,6 +116,8 @@ I am a professional developer who seeks to empathize with the work environment.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorardila&theme=apprentice&utcOffset=8)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorardila&theme=apprentice)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
