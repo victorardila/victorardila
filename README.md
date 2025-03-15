@@ -112,7 +112,7 @@ I am a professional developer who seeks to empathize with the work environment.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorardila&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorardila&show_icons=true" alt="victorardila" /></p>
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorardila&theme=default
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
