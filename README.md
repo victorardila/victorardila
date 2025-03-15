@@ -108,8 +108,6 @@ I am a professional developer who seeks to empathize with the work environment.
 
 ### :fire: Estadisticas :
 
-![Victor Ardila](https://github-readme-stats.vercel.app/api?username=victorardila&show_icons=true&theme=transparent)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victorardila&theme=dark&background=#4C2882)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorardila&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -119,6 +117,8 @@ I am a professional developer who seeks to empathize with the work environment.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorardila&theme=apprentice&utcOffset=8)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorardila&theme=apprentice)
+
+[![💪🏻My performance](https://github-readme-stats.vercel.app/api/wakatime?username=victorardila)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
