@@ -118,8 +118,6 @@ I am a professional developer who seeks to empathize with the work environment.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorardila&theme=apprentice)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=victorardila)](https://github.com/anuraghazra/github-readme-stats)
-
 [![💪🏻My performance](https://github-readme-stats.vercel.app/api/wakatime?username=victorardila)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
